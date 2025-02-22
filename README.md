@@ -13,7 +13,7 @@ Now it always starts automatically (e.g. after Server Restart or if you restart 
 
 ## Setup Cables to Redstone Lamps
 
-If you just want to use the code to build an easy working real time clock, you have to setup the cables like mine (you can also setup it like you want it, but then you have to adjust the code.)
+If you just want to use the code to build an easy working real time clock, you have to setup the cables like mine (you can also setup it like you want, but then you have to adjust the code.)
 
 My setup:
 
