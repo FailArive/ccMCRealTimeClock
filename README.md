@@ -9,7 +9,7 @@ In the ComputerCraft Command Line just type:
 And then run it with:
 `startup`
 
-Now it always starts automatically (e.g. after Server Restart or if you restart the Computer).
+Now it will always start automatically (e.g. after Server Restart or if you restart the Computer).
 
 ## Setup Cables to Redstone Lamps
 
