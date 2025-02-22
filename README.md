@@ -19,7 +19,7 @@ My setup:
 
 ![Redstone Lamp Setup](/Setup.png)
 
-(White, Orange, Purple, Blue, Yellow, Magenta, Grey)
+(White, Orange, Purple, Yellow, Blue, Magenta, Grey)
 
 These are cables from MoreRed (I played on ATM 9). You have to connect the bundled cables with the Computer:
 
