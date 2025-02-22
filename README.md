@@ -26,3 +26,21 @@ These are cables from MoreRed (I played on ATM 9). You have to connect the bundl
 You have to be sure that the bundled cables from right, left, top and back aren´t connected.
 
 ![Back](computer2.png)
+
+For each digit you have to do the same color setup.
+Then you have to connect each cable with the segment that matches the color of the cable.
+
+The Right bundled cable leads to the hour (tens place)
+The Back bundled cable leads to the hour (units place)
+The Top bundled cable leads to the minute (tens place)
+The Left bundled cable leads to the minute (units place)
+
+At the end it can look like this:
+
+![Cable Salad](cablemanagement.png)
+
+You can definetely do a better job in cable management, but it works.
+
+And the you have your 7 segment clock in real time!
+
+![Clock](clock.png)
