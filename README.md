@@ -41,6 +41,6 @@ At the end it can look like this:
 
 You can definetely do a better job in cable management, but it works.
 
-And the you have your 7 segment clock in real time!
+And then you have your 7 segment clock in real time!
 
 ![Clock](clock.png)
